@@ -1,2 +1,2 @@
 # Pyspark
-Implementing preprocessing and ml technique using pyspark 
+Implementing preprocessing and ml techniques using pyspark 
